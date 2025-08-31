@@ -16,6 +16,7 @@
  - git & gh CLI
  - VS Code
  - Firefox & Chrome
+ - [Nu Html Checker](https://validator.w3.org/nu/about.html)
 
  ## Resources used
 
